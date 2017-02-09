@@ -11,6 +11,12 @@
 
 Blueprint following next.
 
-Cutterhead:
+## Cutterhead:
 * Phonocar 2/419 tweeter
+
+
+## Instructions:
+
+* Copy Noobs into a new sd card. install noobs into the Pi Zero
+* Install Pi finder:https://learn.adafruit.com/raspberry-pi-video-looper/installation
 
