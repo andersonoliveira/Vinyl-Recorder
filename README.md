@@ -1,7 +1,7 @@
 # Vinyl Recorder Raspberry Pi project.
 
 ## Project using the following:
-* Raspberry pi 2
+* Raspberry pi 2 with wifi
 * Stepper Motor: https://www.adafruit.com/products/1142
 * Buttons: https://www.adafruit.com/products/475
 * Breadboard
